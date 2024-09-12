@@ -1,0 +1,1 @@
+This Python script scans a directory to identify and categorize files based on their type. It supports images, videos, CSVs, and graphs, and uses `pandas` to inspect the content of CSV files. The script handles errors and outputs a summary of each file's data type (e.g., 'Textual,' 'Numerical,' 'Image').
